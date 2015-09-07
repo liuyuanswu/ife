@@ -3,7 +3,6 @@ body{
 	padding: 0;
 	font-family: "SimSun";
 
-	font-size: 0;
 	background-color: #eee;
 }
 p{
@@ -79,4 +78,7 @@ a{
 /*task0002_2*/
 .time{
 	width: 25%;
+}
+.showTime{
+	color: #f00;
 }
